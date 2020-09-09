@@ -1,0 +1,180 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f7fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: Montserrat;
+}
+
+.wrapper {
+  background: #fff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.photo {
+  width: 370px;
+}
+.main {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.contacts {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.cont-title {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.cont-tel {
+  color: #4f5864;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.cont-em {
+  color: #4f5864;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.ce {
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin-right: 10px;
+}
+.techskill-titl {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+.techskill-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.skilly {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+.tochki {
+  color: #a5a9b0;
+}
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 10x;
+  margin-bottom: 55px;
+}
+
+.about-me-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.projects-link {
+  font-size: 14px;
+  font-weight: 700px;
+  line-height: 24px;
+  color: #595959 !important;
+}
+.tech-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.dots {
+  width: 318px;
+  height: 1px;
+  border: 1px dotted #a8a8a8;
+  font-weight: 100px;
+}
+.project-number {
+  margin-left: 15px;
+  font-weight: bold;
+  color: #595959;
+}
+.projects-container {
+  margin-bottom: 55px;
+}
+.profession-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+}
+.profession-company {
+  color: #ff8737;
+}
+.profession-time {
+  color: #a8a8a8;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.profession-divider {
+  color: #000;
+}
+.profession-duties {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  margin-left: 15px;
+}
+.profession-duties-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.study-speciality {
+  margin-top: 7px;
+}
